@@ -2,4 +2,4 @@
 
 Game created for the "Holistic3D Lockdown Game Jam" #h3dgamejam
 
-by @pauvictor
+by @pauvictor pauvictor <at> gmail <dot> com
